@@ -49,7 +49,7 @@ Como essa variável é numérica e contínua, os modelos devem prever um valor, 
 O notebook pode ser aberto diretamente no Google Colab:
 
 **Link do Colab:**  
-https://colab.research.google.com/github/thaynagoncalves/projeto-final-IA/blob/main/ProjetoFInal_IA.ipynb\
+https://colab.research.google.com/github/thaynagoncalves/projeto-final-IA/blob/main/ProjetoFInal_IA.ipynb
 
 ### Como executar
 
@@ -214,7 +214,7 @@ Para MAE, MSE e RMSE, valores menores são melhores. Para R², valores maiores i
 ## Vídeo de apresentação
 
 **Link do vídeo:**  
-[ASSISTIR AO VÍDEO](https://drive.google.com/drive/folders/1b9lEknvxB7rca03b5rp5IgmKKNadChaj?usp=sharing)
+[ASSISTIR AO VÍDEO](https://drive.google.com/file/d/1jOmzNrqxwx3F0Edzk52DBdWvBHlZakWt/view?usp=sharing)
 
 ---
 
